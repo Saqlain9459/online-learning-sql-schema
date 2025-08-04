@@ -4,6 +4,13 @@ SQL-based database schema and ER diagram for an Online Learning Management Syste
 
 ## 📌 Project Overview
 This project represents a SQL-based database schema for an Online Learning Platform (like Coursera/Udemy). It includes core entities like students, instructors, courses, enrollments, assignments, and submissions.
+ It includes:
+- ✅ SQL schema with `CREATE TABLE` statements
+- ✅ Properly defined **primary keys**, **foreign keys**, and **composite keys**
+- ✅ A clean and well-structured **ER diagram**
+- ✅ Normalized tables to avoid redundancy
+- ✅ Realistic entities: Students, Instructors, Courses, Enrollments, Assignments, and Submissions
+
 
 ## 📊 ER Diagram
 <img width="1103" height="720" alt="Online_Learning_Platform_ER_Diagram" src="https://github.com/user-attachments/assets/de883547-b203-4c31-8861-886d4e2f73f0" />
@@ -47,6 +54,11 @@ This project represents a SQL-based database schema for an Online Learning Platf
 - Constraints (`UNIQUE`, `CHECK`)
 - ENUM values represented via `VARCHAR`
 
+## 🔧 Technologies Used
+- MySQL 
+- dbdiagram.io (for ER diagram)
+- GitHub (version control and submission)
+  
 ## 🚀 How to Run
 1. Open MySQL Workbench
 2. Import `Online_Learning_Platform.sql` script

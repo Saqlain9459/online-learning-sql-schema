@@ -10,22 +10,28 @@ This project represents a SQL-based database schema for an Online Learning Platf
 
 
 ## 🧱 Tables Created
-- ##Students
+- Students
+  
 - ![Students](https://github.com/user-attachments/assets/1f4d7ca3-ebc3-4746-a8fc-e0bb90468dd2)
   
-- ##Instructors
+- Instructors
+  
 - ![Instructors](https://github.com/user-attachments/assets/05d018d7-9b05-4be1-bdfb-9b559a2f3d24)
   
-- ##Courses
+- Courses
+  
 - ![Courses](https://github.com/user-attachments/assets/1b5e8d5a-3d30-4722-9671-c650941d0831)
   
-- ##Enrollments
+- Enrollments
+  
 -![Enrollments](https://github.com/user-attachments/assets/d260bcd5-3387-402c-b101-c932a7fc1889)
 
-- ##Assignments
+- Assignments
+  
 - ![Assignments](https://github.com/user-attachments/assets/f542439d-ae68-4579-8778-d2ddd5942c28)
   
-- ##Submissions
+- Submissions
+  
 -![Submissions](https://github.com/user-attachments/assets/30931d10-33cf-4b1f-9dd4-63a6af5e0dc5)
 
 ## ⚙️ Relationships
